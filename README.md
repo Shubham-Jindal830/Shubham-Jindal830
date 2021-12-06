@@ -1,3 +1,7 @@
+<div align="center">
+	<img src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Prescription02&hairColor=BrownDark&facialHairType=BeardLight&facialHairColor=BrownDark&clotheType=Hoodie&clotheColor=Black&eyeType=Default&eyebrowType=Default&mouthType=Smile&skinColor=Light" alt="Profile Avatar" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Shubham Jindal</h1>
 <h3 align="center">A CSE Student</h3>
 
